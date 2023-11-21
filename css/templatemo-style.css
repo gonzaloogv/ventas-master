@@ -492,6 +492,22 @@ footer p { color: white; }
     font-size: 0.8rem;
     font-weight: 600;
 }
+.ok {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #4e8;
+    color: #fff;
+
+}
+.bad {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff;
+
+}
 
 #google-map { height: 600px; }
 
